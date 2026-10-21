@@ -22,7 +22,7 @@ due. India time is computed from UTC (+5:30), so it works the same on any machin
 
 | Project | Mode |
 |---|---|
-| KaRa By Anushree (API, Render) | Demo window until 10 Oct 2026, 8:50 AM IST |
+| KaRa By Anushree | Moved to its own server on 21 Oct 2026, no pinging needed |
 
 ## Add a project / start a window
 Add or edit its line in `urls.txt` and commit. The workflow runs immediately on that change.
